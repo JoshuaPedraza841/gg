@@ -7,6 +7,7 @@ public class PruebasLocales {
         System.out.println("Aprendiendo GIT con el chino Nibi");
         clase1.pintarMensaje("Nomura cabron");
         //Comentario para mi
+        //Nomura cabron
     }
     
 }
