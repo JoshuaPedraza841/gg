@@ -8,6 +8,7 @@ public class PruebasLocales {
         clase1.pintarMensaje("Nomura cabron");
         //Comentario para mi
         //Nomura cabron
+        //no se we xd
     }
     
 }
